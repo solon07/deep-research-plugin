@@ -1,0 +1,11 @@
+{
+  "name": "deep-research",
+  "version": "0.1.0",
+  "description": "Multi-agent deep research orchestrator with evidence graphs, quality gates, and publication-quality report generation.",
+  "license": "MIT",
+  "keywords": ["research", "agents", "citations", "evidence", "orchestration"],
+  "agents": "./agents/",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json",
+  "outputStyles": "./output-styles/"
+}

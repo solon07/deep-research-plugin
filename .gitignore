@@ -1,0 +1,24 @@
+# Deep Research workspace and test data
+.deep-research/
+
+# Reference material (not part of the plugin)
+preliminary-reference-material/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
